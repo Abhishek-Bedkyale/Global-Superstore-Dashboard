@@ -12,10 +12,10 @@ Power Bi
 Advance Excel
 Dashboards :- Global Superstore Dashboard :
 
-Company dispatched and successfully delivered total 25k orders between 2011 to 2014.
-Company total sale is 12.64M between 2011 to 2014.
-Company YOY sales growth is alomst 51 % and month on month growth is almost 4 %.
-Total return order is 1k.
-The average shipping day is 4.
+1) Company dispatched and successfully delivered total 25k orders between 2011 to 2014.
+2) Company total sale is 12.64M between 2011 to 2014.
+3) Company YOY sales growth is alomst 51 % and month on month growth is almost 4 %.
+4) Total return order is 1k.
+5) The average shipping day is 4.
 
 ![Capture](https://github.com/Abhishek-Bedkyale/Global-Superstore-Dashboard/assets/87769040/fd3049ce-ee0c-4ab4-a33f-9b2a361c4b22)
