@@ -1,4 +1,3 @@
-![Capture](https://github.com/Abhishek-Bedkyale/Global-Superstore-Dashboard/assets/87769040/fd3049ce-ee0c-4ab4-a33f-9b2a361c4b22)
 Global Superstore Dashboard ----- Power Bi with Advance Excel !!
 
 This dashboard should include key metrics such as total sales, sales by product, sales by location, sales by customer segment, and sales by product category, YOY growth % , MOM growth % total return orders ,overall total orders.
@@ -19,3 +18,4 @@ Company YOY sales growth is alomst 51 % and month on month growth is almost 4 %.
 Total return order is 1k.
 The average shipping day is 4.
 
+![Capture](https://github.com/Abhishek-Bedkyale/Global-Superstore-Dashboard/assets/87769040/fd3049ce-ee0c-4ab4-a33f-9b2a361c4b22)
