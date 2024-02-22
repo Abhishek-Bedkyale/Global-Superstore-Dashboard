@@ -1,3 +1,4 @@
+![Capture](https://github.com/Abhishek-Bedkyale/Global-Superstore-Dashboard/assets/87769040/fd3049ce-ee0c-4ab4-a33f-9b2a361c4b22)
 Global Superstore Dashboard ----- Power Bi with Advance Excel !!
 
 This dashboard should include key metrics such as total sales, sales by product, sales by location, sales by customer segment, and sales by product category, YOY growth % , MOM growth % total return orders ,overall total orders.
