@@ -19,3 +19,10 @@ Dashboards :- Global Superstore Dashboard :
 5) The average shipping day is 4.
 
 ![Capture](https://github.com/Abhishek-Bedkyale/Global-Superstore-Dashboard/assets/87769040/fd3049ce-ee0c-4ab4-a33f-9b2a361c4b22)
+
+Shipping Analysis Dashboard ::
+1) 59% orders shipped through standard class and lowest preferred is Same day.
+2) Standard class have more shipping cost and Same day have less shipping cost.
+3) APAC market shipped most orders on medium priority.
+   
+![Capture1](https://github.com/Abhishek-Bedkyale/Global-Superstore-Dashboard/assets/87769040/c62e9e1d-73dc-48e9-8646-b268a9218413)
